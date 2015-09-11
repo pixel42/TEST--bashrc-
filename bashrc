@@ -1,7 +1,7 @@
 #!/bin/bash
 RED='\033[31m'
 WHITE='\033[0m'
-alias ll='ls -ltr'
+alias ll='ls -ltrh'
 alias echo='echo -e'
 alias mydiff='diff -y -W 230 --suppress-common-lines -b '
 
